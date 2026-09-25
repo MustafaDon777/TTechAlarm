@@ -1,0 +1,129 @@
+{
+  "services": [
+    {
+      "title": "Commercial & Residential CCTV",
+      "description": "High-definition security camera systems featuring crystal-clear night vision, remote mobile viewing, and AI-powered motion analytics.",
+      "icon": "fa-video",
+      "badge": "Security",
+      "meta": "Brands: Hikvision, Uniview",
+      "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Structured Cat6 & Fiber Cabling",
+      "description": "Robust fiber optic backbones and certified Cat6/Cat6A structured cabling designed for lightning-fast data transmission and zero downtime.",
+      "icon": "fa-network-wired",
+      "badge": "Network",
+      "meta": "Gigabit & 10G Ready",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "title": "Intercom & Video Entry Systems",
+      "description": "Comprehensive audio/video intercoms for multi-tenant residential complexes and secure commercial gate entries with smartphone integration.",
+      "icon": "fa-comments",
+      "badge": "Access",
+      "meta": "HD Audio & Video",
+      "image": "media/ACS.jpg"
+    },
+    {
+      "title": "Access Control Systems",
+      "description": "Keyless entry management with biometric readers, RFID keycards, mobile credentials, and centralized visitor audit logging.",
+      "icon": "fa-id-card",
+      "badge": "Security",
+      "meta": "Role-Based Permissions",
+      "image": "media/DAS.jpg"
+    },
+    {
+      "title": "Distributed Antenna Systems (DAS)",
+      "description": "Cellular signal enhancement solutions that eliminate dead zones across large commercial buildings, warehouses, and subterranean structures.",
+      "icon": "fa-tower-cell",
+      "badge": "Signal",
+      "meta": "Crystal Clear Reception",
+      "image": "media/ACS.jpg"
+    },
+    {
+      "title": "VoIP Phones & Office IT Management",
+      "description": "Cloud VoIP communication systems, workstation management, firewall configuration, and comprehensive managed office IT services.",
+      "icon": "fa-headset",
+      "badge": "Telecom",
+      "meta": "Cloud PBX & Security",
+      "image": "media/voip.jpg"
+    },
+    {
+      "title": "Smart Home & Building Automation",
+      "description": "Intelligent control of lighting, climate, motorized shades, and security via unified platforms like Control4 for ultimate luxury and efficiency.",
+      "icon": "fa-house-laptop",
+      "badge": "Automation",
+      "meta": "Control4 Authorized",
+      "image": "media/smartHome.jpg"
+    },
+    {
+      "title": "AV Integration & Digital Signage",
+      "description": "Professional conference room audio/video setups, multi-zone distributed audio, video walls, and engaging commercial digital signage networks.",
+      "icon": "fa-tv",
+      "badge": "AV & Media",
+      "meta": "4K Video & Multi-Zone Audio",
+      "image": "media/avintegration.jpg"
+    },
+    {
+      "title": "Intrusion Detection & Advanced Alarms",
+      "description": "Commercial intrusion alarms, glass break sensors, motion detectors, and 24/7 central station monitoring integration using Honeywell hardware.",
+      "icon": "fa-triangle-exclamation",
+      "badge": "Safety",
+      "meta": "Honeywell Certified",
+      "image": "media/introsion.jpg"
+    }
+  ],
+  "brands": [
+    {
+      "name": "Honeywell",
+      "sub": "Alarms & Security",
+      "icon": "fa-shield"
+    },
+    {
+      "name": "Control4",
+      "sub": "Smart Automation",
+      "icon": "fa-house-signal"
+    },
+    {
+      "name": "UNV (Uniview)",
+      "sub": "IP Surveillance",
+      "icon": "fa-video"
+    },
+    {
+      "name": "Hikvision",
+      "sub": "Camera Systems",
+      "icon": "fa-camera-retro"
+    },
+    {
+      "name": "And More",
+      "sub": "Cisco, Ubiquiti, Axis",
+      "icon": "fa-microchip"
+    }
+  ],
+  "portfolio": [
+    {
+    "title": "Commercial Starlink Satellite Internet",
+    "description": "Installed dual Starlink antennas and optimized network routing to provide high-speed primary and redundant internet connectivity for two office locations at JFK Airport.",
+    "category": "Network & Satellite",
+    "image": "media/starlink.jpg"
+  },
+  {
+    "title": "Structured Cabling & Office Networking",
+    "description": "Installed comprehensive Cat6/Cat6a Ethernet cabling infrastructure to support workstations, conference rooms, and cubicles for cooperate offices in Manhattan and New Jersy.",
+    "category": "Structured Cabling",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "title": "High-Bay Warehouse Wi-Fi Deployment",
+    "description": "Deployed industrial-grade Wi-Fi access points across a 50-foot-high New Jersey warehouse facility utilizing scissor lifts to ensure seamless wireless coverage and scanner connectivity.",
+    "category": "Wireless Infrastructure",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "title": "Industrial Security Camera System",
+    "description": "Installed a full IP security camera system with ruggedized cabling tailored for the heavy metal infrastructure environment of a manufacturing factory.",
+    "category": "Security & Surveillance",
+    "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?auto=format&fit=crop&w=600&q=80"
+  }
+  ]
+}

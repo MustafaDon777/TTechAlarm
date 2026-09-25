@@ -1,0 +1,48 @@
+/* Core Styling & Custom Canvas Elements */
+html {
+    scroll-behavior: smooth;
+}
+
+.transition-theme {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Unique Dark Blue Canvas Element Button Style (Requested Customization) */
+.btn-canvas {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0b192c; /* Dark blue canvas element background */
+    color: #ffffff;
+    padding: 0.75rem 1.75rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    border: 2px solid #dc2626; /* Crimson red accent */
+    border-radius: 4px; /* Distinct sharp corners instead of fully round */
+    box-shadow: 4px 4px 0px #dc2626; /* Colored shadow offset */
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+
+.btn-canvas:hover {
+    background-color: #1e3e62;
+    transform: translate(-2px, -2px);
+    box-shadow: 6px 6px 0px #b91c1c;
+}
+
+.btn-canvas:active {
+    transform: translate(1px, 1px);
+    box-shadow: 2px 2px 0px #dc2626;
+}
+
+.btn-canvas-outline {
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 4px 4px 0px #ef4444;
+}
+
+.btn-canvas-outline:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
