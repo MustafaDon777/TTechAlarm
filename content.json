@@ -30,7 +30,7 @@
       "icon": "fa-id-card",
       "badge": "Security",
       "meta": "Role-Based Permissions",
-      "image": "media/DAS.jpg"
+      "image": "media/ACS.jpg"
     },
     {
       "title": "Distributed Antenna Systems (DAS)",
@@ -38,7 +38,7 @@
       "icon": "fa-tower-cell",
       "badge": "Signal",
       "meta": "Crystal Clear Reception",
-      "image": "media/ACS.jpg"
+      "image": "media/DAS.jpg"
     },
     {
       "title": "VoIP Phones & Office IT Management",
